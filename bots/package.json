@@ -6,7 +6,7 @@
   "devDependencies": {
     "danger": "^7.1.4",
     "lodash.includes": "^4.3.0",
-    "minimatch": "^3.0.4"
+    "minimatch": "^3.0.5"
   },
   "dependencies": {
     "@octokit/rest": "^16.43.0",
